@@ -1,0 +1,36 @@
+Expanding Max Node A0: Alpha = -Infinity, Beta: Infinity
+Expanding Min Node B0: Alpha = -Infinity, Beta: Infinity
+Expanding Max Node C0: Alpha = -Infinity, Beta: Infinity
+Expanding Min Node D0: Alpha = -Infinity, Beta: Infinity
+Expanding Min Node D1: Alpha = -2.0, Beta: Infinity
+Expanding Min Node D2: Alpha = -2.0, Beta: Infinity
+Expanding Max Node C2: Alpha = -Infinity, Beta: -2.0
+Expanding Min Node D3: Alpha = -Infinity, Beta: -2.0
+Skipping expansion of Node D4 because it cannot make alpha higher
+Expanding Min Node B1: Alpha = -2.0, Beta: Infinity
+Expanding Max Node C3: Alpha = -2.0, Beta: Infinity
+Expanding Min Node D5: Alpha = -2.0, Beta: Infinity
+Expanding Max Node C4: Alpha = -2.0, Beta: 2.0
+Expanding Min Node D7: Alpha = -2.0, Beta: 2.0
+Skipping expansion of Node D8 because it cannot make alpha higher
+Skipping expansion of Node D9 because it cannot make alpha higher
+Expansions completed
+
+Final Alpha Beta Values for each node:
+Node A0 - Alpha: 2.0, Beta: Infinity
+Node B0 - Alpha: -Infinity, Beta: -2.0
+Node B1 - Alpha: -2.0, Beta: 2.0
+Node C0 - Alpha: -2.0, Beta: Infinity
+Node C2 - Alpha: 4.0, Beta: -2.0
+Node C3 - Alpha: 2.0, Beta: Infinity
+Node C4 - Alpha: 3.0, Beta: 2.0
+Node D0 - Alpha: -Infinity, Beta: -2.0
+Node D1 - Alpha: -2.0, Beta: -6.0
+Node D2 - Alpha: -2.0, Beta: -5.0
+Node D3 - Alpha: -Infinity, Beta: -2.0
+Node D5 - Alpha: -2.0, Beta: 2.0
+Node D7 - Alpha: -2.0, Beta: 2.0
+
+Value of Max Node A = 2
+
+Move that Max Node A would make is B1
